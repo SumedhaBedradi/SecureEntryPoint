@@ -7,6 +7,7 @@ A simple **Login Page** built using **HTML** and **CSS**. This page features a c
 ## 🌐 Live Demo
 
 > 💡 You can view the project live here:
+https://sumedhabedradi.github.io/SecureEntryPoint/
 ---
 
 ## 📁 Features
